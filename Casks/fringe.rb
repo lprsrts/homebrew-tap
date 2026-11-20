@@ -1,6 +1,6 @@
 cask "fringe" do
-  version "0.3.0"
-  sha256 "b72d49fb9214475e93e672fec47a013ff79f80951b72b8c248e86fbc896984d9"
+  version "0.4.1"
+  sha256 "a852d3eb19b8d66b15f14ed5c55521f941da6d3ee7668e4c28ee1c70d7d25c83"
 
   url "https://github.com/lprsrts/fringe/releases/download/v#{version}/Fringe-#{version}-macos-arm64.dmg"
   name "Fringe"
